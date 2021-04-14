@@ -6,4 +6,4 @@ Pillow==6.1.0
 tensorflow
 Werkzeug==0.16.0
 keras
-scikit-learn
+scikit-learn 
